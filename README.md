@@ -49,9 +49,6 @@ Las mayores decisiones tomadas y las que mas pruebas requirieron fueron el méto
     }
     return nextPosY;
   }
-
-
-
  <p align="center"><img src="images/gameover.png" alt="gamePlay" width="300" height="300"></br>Pantalla final</p>
  
 
