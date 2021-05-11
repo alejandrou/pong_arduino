@@ -55,7 +55,7 @@ Las mayores decisiones tomadas y las que mas pruebas requirieron fueron el méto
 
 ## Referencias
 
-Para ayudarme en la realización de esta aplicación usé básicamente la API que te proporciona [Processing](https://www.processing.org/) y [Arduino](https://www.arduino.cc/reference/en/).
+Para ayudarnos en la realización de esta aplicación usamos la API que te proporciona [Processing](https://www.processing.org/) y [Arduino](https://www.arduino.cc/reference/en/).
 ## Herramientas
 
 * [Processing](https://www.processing.org/)
@@ -65,7 +65,7 @@ Para ayudarme en la realización de esta aplicación usé básicamente la API qu
 
 ## Resultado
 
-Añado un GIF con el resultado de la aplicación final con la escena.
+Añadimos un GIF con el resultado de la aplicación final con la escena.
 
-Al ir un poco lento de FPS para realizar el gif usé el programa [Gyazo](https://gyazo.com/) para que sea más visible el uso de la cámara. Se puede ver en el link a continuación. El video esta en la carpeta imágenes en caso de que el link no funcione.
+Al ir un poco lento de FPS para realizar el gif usamos el programa [Gyazo](https://gyazo.com/) para que sea más visible el uso del programa. Se puede ver en el link a continuación. El video esta en la carpeta imágenes en caso de que el link no funcione.
 * [Vídeo de la ejecución final](https://gyazo.com/dfedc898a8efe06112855498fca09d0e).
