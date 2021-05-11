@@ -20,7 +20,7 @@
 
 ## Autor
 
-El autor de este proyecto son los estudiantes Carlos Eduardo Pacichana Bastidas y Alejandro Daniel Herrera Cárdenes para la asignatura Creando Interfaces de Usuario (CIU) para el profesor Modesto Fernando Castrillón Santana y Jose Daniel Hernández Sosa. 
+Los autores de este proyecto son los estudiantes Carlos Eduardo Pacichana Bastidas y Alejandro Daniel Herrera Cárdenes para la asignatura Creando Interfaces de Usuario (CIU) para el profesor Modesto Fernando Castrillón Santana y Jose Daniel Hernández Sosa. 
 
 
 ## Trabajo realizado
