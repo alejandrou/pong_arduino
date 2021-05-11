@@ -55,12 +55,11 @@ Las mayores decisiones tomadas y las que mas pruebas requirieron fueron el méto
 
 ## Referencias
 
-Para ayudarme en la realización de esta aplicación usé básicamente la API que te proporciona [Processing](https://www.processing.org/).
-
+Para ayudarme en la realización de esta aplicación usé básicamente la API que te proporciona [Processing](https://www.processing.org/) y [Arduino](https://www.arduino.cc/reference/en/).
 ## Herramientas
 
 * [Processing](https://www.processing.org/)
-
+* [Arduino](https://www.arduino.cc/reference/en/)
 
 
 
